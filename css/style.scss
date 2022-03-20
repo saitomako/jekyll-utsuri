@@ -1,0 +1,29 @@
+---
+---
+
+@import "vars";
+//@import "mixins";
+//@import "layoutes";
+//@import "utilities";
+//@import "topbar";
+@import "header";
+//@import "sliders";
+//@import "pagetitle";
+//@import "content";
+//@import "portfolio";
+//@import "blog";
+//@import "shop";
+//@import "events";
+//@import "shortcodes";
+//@import "forms";
+//@import "footer";
+//@import "widgets";
+//@import "paginations";
+//@import "extras";
+//@import "page-loaders";
+//@import "dark";
+//@import "style-rtl";
+
+body {
+  background: $bg-color;
+}
